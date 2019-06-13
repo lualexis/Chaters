@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "802682378291",
+    "firebase_url": "https://chaters-30e47.firebaseio.com",
+    "project_id": "chaters-30e47",
+    "storage_bucket": "chaters-30e47.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:802682378291:android:86c6df26fae3bc6d",
+        "android_client_info": {
+          "package_name": "triple.solution.chaters"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "802682378291-alk7j37ed6etqdkjq50cb9t43l6ecvso.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "triple.solution.chaters",
+            "certificate_hash": "1e706e25b3f31a6a7f2f75dfca3a8b58fe8a89bd"
+          }
+        },
+        {
+          "client_id": "802682378291-04m0mlq5log77o1c6eda9m67e4hr6s6u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBUKbDi2kQP_Lt_jruaOhS_nN9CqH9FIlg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "802682378291-04m0mlq5log77o1c6eda9m67e4hr6s6u.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
